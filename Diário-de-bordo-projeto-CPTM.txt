@@ -1,0 +1,59 @@
+DIÁRIO DE BORDO — DATA RAIL SYSTEMS
+
+Instituição: Fatec Cotia — Centro Paula Souza
+Curso: Ciência de Dados — segundo semestre
+Disciplina: Projeto Integrado
+Professor: Kaique Almeida Justino da Silva
+Empresa fictícia: Data Rail Systems
+
+INTEGRANTE: Alexrande
+29/08 — Leitura dos documentos e entendimento da ideia inicial.
+05/09 — Estudo voltado para Python básico e leitura dos guias.
+12/09 — Pesquisa sobre possível análise.
+19/09 — Visita à CPTM; integrante não pôde comparecer.
+20/09 — Realização da atividade de reposição e estudo sobre Streamlit.
+26/09 — Apresentação da atividade de reposição.
+03/10 — Ausente na aula; estudo sobre LLM.
+07/10 — Entrega do relatório parcial.
+10/10 — Organização para reenvio correto das atividades.
+
+INTEGRANTE: Gustavo Coelho
+29/08 — Leitura dos documentos e elaboração de resenha.
+05/09 — Base de Python e leitura dos guias.
+12/09 — Pesquisa sobre possível análise.
+19/09 — Visita à CPTM; integrante não pôde comparecer por motivos familiares.
+25/09 — Estudo sobre Streamlit e realização da atividade de reposição.
+26/09 — Apresentação da atividade de reposição.
+03/10 — Iniciação no aprendizado de Jupyter Notebook.
+05/10 — Reforço ao estudo de Jupyter Notebook.
+07/10 — Entrega do relatório parcial.
+10/10 — Reunião para reenvio correto da atividade proposta.
+
+INTEGRANTE: Thiago
+Atividades informadas sem datas:
+- Referencial teórico.
+- Análise de termos técnicos.
+- Glossário de siglas.
+
+INTEGRANTE: Gustavo Mota
+29/08 — Ausência na aula em virtude de trabalho.
+05/09 — Estudo voltado para Python básico e leitura dos guias.
+12/09 — Pesquisa sobre análise.
+19/09 — Visita à CPTM; integrante não compareceu.
+26/09 — Leitura dos documentos e análise de viabilidade.
+03/10 — Análise do dataset.
+07/10 — Entrega do relatório parcial.
+10/10 — Revisão e correção do relatório.
+12/10 — ETL do dataset utilizando pandas.
+
+REGISTRO INDIVIDUAL
+29/08 — Leitura dos documentos da disciplina e compreensão da proposta do Projeto Integrado.
+05/09 — Estudo dos fundamentos de Python e leitura dos guias de apoio ao desenvolvimento do projeto.
+11/09 — Exercícios e testes com Python, criação de gráficos e teste de automação.
+12/09 — Pesquisa de possibilidades de análise de dados da CPTM e discussão sobre o direcionamento do projeto da Data Rail Systems.
+26/09 — Internação (atestado).
+03/10 — Exploração inicial do dataset, identificação das variáveis e avaliação das possibilidades de análise e visualização.
+07/10 — Participação na elaboração e entrega do relatório parcial do projeto.
+10/10 — Revisão do relatório parcial, correção das informações e organização dos ajustes necessários.
+12/10 — Desenvolvimento do processo de extração, transformação e carga (ETL) do dataset com a biblioteca pandas, preparando os dados para as análises e para o dashboard em Streamlit.
+14/10 — Revisão do dashboard — Levi e Alexandre.
